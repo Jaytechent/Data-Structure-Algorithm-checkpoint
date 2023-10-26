@@ -19,7 +19,7 @@ Problem 2
 
 Explanation:
 
-The procedure DotProduct calculates the dot product of two vectors (v1 and v2) and stores the result in the variable ps.
+The procedure DotProduct calculates the dot product of two vectors (v1 and v2) and stores the result in the VAR ps.
 
 It uses a nested loop to iterate through the elements of v1 and v2 to perform the dot product calculation.
 
